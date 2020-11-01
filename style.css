@@ -1,0 +1,150 @@
+
+
+h1 {
+  font-family: arial;
+  font-style: italic;
+}
+
+p {
+  line-height: 2;
+}
+h2 {
+  font-family: david libre;
+  font-style: italic;
+  text-decoration: underline;
+  }
+h3 {
+  text-decoration: underline;
+  font-family: david libre;
+  font-style: italic;
+  color: Black;
+  }
+
+  h4 {
+    font-family: david libre;
+    text-decoration: underline;
+    font-family: david libre;
+    font-style: italic;
+    color: Black;
+  }
+
+  h5 {
+    font-family: david libre;
+  }
+
+.image {
+  float: right;
+  position: absolute;
+  margin-left: 200px;
+  padding-left: 200px;float: right;
+  position: absolute;
+  margin-left: 200px;
+  padding-left: 200px;
+}
+
+.para-1 {
+    width: 50%;
+    text-align: left;
+    margin:100px auto 100px auto;
+    line-height: 2.5;
+    margin-left: 550px;
+    font-family: arial;
+  float: right;
+  color: Black;
+  }
+
+.para-2 {
+  width: 50%;
+  text-align: left;
+  margin:100px auto 100px auto;
+  line height: 2;
+  }
+.para-3 {
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line height: 2;
+}
+.para-4 {
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line height: 2;
+}
+.paratitle {
+  width: 50%;
+  text-align: left;
+  margin:100px auto 100px auto;
+  line height: 2;
+}
+
+.para-service1 {
+  float: right;
+  position: absolute;
+  margin-left: 200px;
+  padding-left: 200px;
+}
+.para-content {
+  width:50%;
+  text-align: left;
+  margin:100px auto 100px auto;
+  line-height: 2.5;
+  margin-left: 650px;
+}
+.para-service2 {
+  float: right;
+  position: absolute;
+  margin-left: 200px;
+  padding-left: 200px;
+}
+.content {
+  width: 50%;
+  text-align: left;
+  margin:100px auto 100px auto;
+  line-height: 2.5;
+  margin-left: 650px;
+}
+.image-content {
+  float: right;
+  position: absolute;
+  margin-left: 200px;
+  padding-left: 200px;
+}
+.para-content1 {
+  width: 50%;
+  text-align: left;
+  margin:100px auto 100px auto;
+  line-height: 2.5;
+  margin-left: 650px;
+}
+.para-5 {
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line height: 2;
+}
+
+.para-6 {
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line height: 2;
+}
+.para-7 {
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line height: 2;
+}
+.para-8 {
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line height: 2;
+}
+.social {
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line height: 2;
+}
